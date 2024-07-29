@@ -18,7 +18,7 @@ image[4].src=MG_5093.jpg";
 image[5]=new Image();
 image[5].src=MG_5094.png";
 image[6]=new Image();
-image[6].src="simofuri.jpg";
+image[6].src=MG_5095.jpg";
 image[7]=new Image();
 image[7].src="totto.jpg";
 
