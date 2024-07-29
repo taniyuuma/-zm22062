@@ -6,21 +6,21 @@ var image = new Array();
 
 //配列の各要素を画像に特化して、そのパスを記入
 image[0]=new Image();
-image[0].src=MG_5089.jpg";
+image[0].src="MG_5089.jpg";
 image[1]=new Image();
 image[1].src="IMG_5092.jpg";
 image[2]=new Image();
-image[2].src=MG_5090.jpg";
+image[2].src="MG_5090.jpg";
 image[3]=new Image();
-image[3].src=MG_5091.jpg";
+image[3].src="MG_5091.jpg";
 image[4]=new Image();
-image[4].src=MG_5093.jpg";
+image[4].src="MG_5093.jpg";
 image[5]=new Image();
-image[5].src=MG_5094.png";
+image[5].src="MG_5094.png";
 image[6]=new Image();
-image[6].src=MG_5095.jpg";
+image[6].src="MG_5095.jpg";
 image[7]=new Image();
-image[7].src=MG_5096.jpg";
+image[7].src="MG_5096.jpg";
 
 var cnt=0;
 
