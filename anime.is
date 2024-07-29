@@ -6,7 +6,7 @@ var image = new Array();
 
 //配列の各要素を画像に特化して、そのパスを記入
 image[0]=new Image();
-image[0].src="wagyu.jpg";
+image[0].src=MG_5089.jpg";
 image[1]=new Image();
 image[1].src="akina.jpg";
 image[2]=new Image();
