@@ -9,9 +9,9 @@ color: #F0A050;
 
 body {
   overflow: visible !important;
-  background: -webkit-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
-  background: -moz-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
-  background: -ms-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
-  background: -o-linear-gradient(45deg, #085078 10%, #85d8ce 90%);
-  background: linear-gradient(45deg, #085078 10%, #85d8ce 90%);
+  background: -webkit-linear-gradient(45deg, #008000 10%, #7cfc00 90%);
+  background: -moz-linear-gradient(45deg, #008000 10%, #7cfc00 90%);
+  background: -ms-linear-gradient(45deg, #008000　10%, #7cfc00 90%);
+  background: -o-linear-gradient(45deg, #008000 10%, #7cfc00 90%);
+  background: linear-gradient(45deg, #008000 10%, #7cfc00 90%);
  }
